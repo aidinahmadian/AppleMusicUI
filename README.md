@@ -2,9 +2,9 @@
 
 Creating Apple Music App, Programmatically without Storyboard Using Swift 5.1
 
-### Photos Sample
+AppleMusic sample app is written in Swift 5.0+. It can be built by Xcode 10.0.0 or later. Compatible with iOS 13.0+.
 
-Using Programmatic UI
+### Photos Sample
 
 <img width="300" alt="firstpic" src="Pics/firstpic.png"> <img width="300" alt="secondpic" src="Pics/secondpic.png">
 <img width="300" alt="thirdpic" src="Pics/thirdpic.png"> <img width="300" alt="forthpic" src="Pics/forthpic.png">
@@ -19,6 +19,8 @@ Using Programmatic UI
   - Each PR must get two approvals from our team before we will merge.
 
 ## Requirements
+
+In order to compile AppleMusicUI you will need to meet the following requirements:
 
 * iOS 13.0+ / Mac OS X 10.14+
 * Xcode 10.0+
