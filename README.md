@@ -16,7 +16,6 @@ AppleMusic sample app is written in Swift 5.0+. It can be built by Xcode 11.0 or
 - If you **want to contribute**, submit a pull request.
   - In order to submit a pull request, please fork this repo and submit a PR from your forked repo.
   - Have a detailed message as to what your PR fixes/enhances/adds.
-  - Each PR must get two approvals from our team before we will merge.
 
 ## Requirements
 
