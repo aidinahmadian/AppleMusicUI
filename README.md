@@ -2,7 +2,7 @@
 
 Creating Apple Music App, Programmatically without Storyboard Using Swift 5.0+
 
-AppleMusic sample app is written in Swift 5.0+. It can be built by Xcode 10.0 or later. Compatible with iOS 13.0+.
+AppleMusic sample app is written in Swift 5.0+. It can be built by Xcode 11.0 or later. Compatible with iOS 13.0+.
 
 ### Photos Sample
 
@@ -23,5 +23,5 @@ AppleMusic sample app is written in Swift 5.0+. It can be built by Xcode 10.0 or
 In order to compile AppleMusicUI you will need to meet the following requirements:
 
 * iOS 13.0+ / Mac OS X 10.14+
-* Xcode 10.0+
+* Xcode 11.0+
 * Swift 5.0+
