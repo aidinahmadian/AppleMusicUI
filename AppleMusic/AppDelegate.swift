@@ -1,10 +1,10 @@
 //
 //  AppDelegate.swift
-//  AppleMusic
+//  Artists
 //
-//  Created by aidin ahmadian on 10/15/19.
+//  Created by aidin ahmadian on 10/3/19.
 //  Copyright © 2019 aidin ahmadian. All rights reserved.
-//
+//  https://github.com/aidinahmadian
 
 import UIKit
 
